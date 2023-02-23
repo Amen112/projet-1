@@ -7,3 +7,4 @@ somme <- function (x,y)
 x <- as.numeric(readline())
 y <- as.numeric(readline())
 somme(x,y)
+#hello
